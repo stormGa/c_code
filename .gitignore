@@ -1,6 +1,9 @@
 # Prerequisites
 *.d
 
+# Extensions
+tempCodeRunnerFile.c
+
 # Object files
 *.o
 *.ko
